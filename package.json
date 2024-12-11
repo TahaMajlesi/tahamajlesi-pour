@@ -12,7 +12,8 @@
     "license": "ISC",
     "dependencies": {
         "jquery": "^3.7.1",
-        "live-server": "^1.2.2"
+        "live-server": "^1.2.2",
+        "typed.js": "^2.1.0"
     },
     "devDependencies": {
         "tailwindcss": "^3.4.16"
